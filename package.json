@@ -1,0 +1,24 @@
+{
+  "name": "akf-ascii",
+  "version": "1.0.0",
+  "description": "A text-to-ascii conventer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akif9748/akf-ascii.git"
+  },
+  "keywords": [
+    "ascii",
+    "art",
+    "console"
+  ],
+  "author": "Akif9748",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Akif9748/akf-ascii/issues"
+  },
+  "homepage": "https://github.com/Akif9748/akf-ascii#readme"
+}
