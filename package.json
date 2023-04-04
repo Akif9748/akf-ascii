@@ -1,6 +1,6 @@
 {
   "name": "akf-ascii",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A text-to-ascii conventer",
   "main": "index.js",
   "scripts": {
