@@ -17,7 +17,7 @@ function ascii(text, spaceBetweenChars) {
  */
 function join(args, spaceBetweenChars = " ") {
     const arr = [];
-    console.log(args,31)
+
     for (let i = 0; i < 5; i++)
         arr[i] = args.map(arg => arg[i]).join(spaceBetweenChars);
 
